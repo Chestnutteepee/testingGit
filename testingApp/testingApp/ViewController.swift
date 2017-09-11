@@ -21,6 +21,9 @@ class ViewController: UIViewController {
     }
     
     //
+    func foo() {
+        
+    }
 
 
 }
